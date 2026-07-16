@@ -43,7 +43,17 @@ python3 -m clinic cli
 
 # Graphical interface
 python3 -m clinic gui
+
+# Sample login credentials:
+# Username: user
+# Password: 123456
 ```
+
+Sample interface:
+
+<img width="621" height="441" alt="Screenshot 2026-07-15 at 5 11 19 PM" src="https://github.com/user-attachments/assets/4907d534-dc6f-45a8-b266-b4c2e088ae00" />
+<img width="614" height="446" alt="Screenshot 2026-07-15 at 5 11 57 PM" src="https://github.com/user-attachments/assets/7b493e6e-78c3-4354-b5ba-91c10991ea77" />
+
 
 ## Running tests
 ```
